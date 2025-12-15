@@ -1,0 +1,50 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <rect width="512" height="512" rx="80" fill="#5B51D8"/>
+  
+  <!-- Clipboard -->
+  <rect x="180" y="140" width="200" height="260" rx="12" fill="white" opacity="0.95"/>
+  <rect x="230" y="120" width="100" height="40" rx="8" fill="#D946EF"/>
+  <rect x="240" y="130" width="80" height="20" rx="4" fill="#0EA5E9"/>
+  
+  <!-- Checkmarks and lines -->
+  <circle cx="210" cy="200" r="16" fill="#8B7FF8" opacity="0.8"/>
+  <path d="M205 200 L208 203 L215 196" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <rect x="235" y="195" width="100" height="10" rx="5" fill="#8B7FF8" opacity="0.6"/>
+  
+  <circle cx="210" cy="250" r="16" fill="#8B7FF8" opacity="0.8"/>
+  <path d="M205 250 L208 253 L215 246" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <rect x="235" y="245" width="100" height="10" rx="5" fill="#8B7FF8" opacity="0.6"/>
+  
+  <circle cx="210" cy="300" r="16" fill="#8B7FF8" opacity="0.8"/>
+  <path d="M205 300 L208 303 L215 296" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <rect x="235" y="295" width="100" height="10" rx="5" fill="#8B7FF8" opacity="0.6"/>
+  
+  <!-- Timer icon in top right -->
+  <circle cx="420" cy="140" r="45" fill="#6B68D8" opacity="0.9"/>
+  <circle cx="420" cy="140" r="35" fill="white" opacity="0.3"/>
+  <line x1="420" y1="140" x2="420" y2="120" stroke="#5B51D8" stroke-width="6" stroke-linecap="round"/>
+  <line x1="420" y1="140" x2="430" y2="150" stroke="#5B51D8" stroke-width="6" stroke-linecap="round"/>
+  
+  <!-- Check icon in top left -->
+  <circle cx="90" cy="150" r="50" fill="#6B68D8" opacity="0.9"/>
+  <circle cx="90" cy="150" r="40" fill="white" opacity="0.3"/>
+  <path d="M70 150 L85 165 L110 135" stroke="white" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  
+  <!-- Suitcase -->
+  <rect x="60" y="360" width="80" height="70" rx="8" fill="#D946EF"/>
+  <rect x="80" y="350" width="40" height="20" rx="4" fill="#D946EF"/>
+  <line x1="70" y1="370" x2="70" y2="420" stroke="#0EA5E9" stroke-width="4"/>
+  <line x1="130" y1="370" x2="130" y2="420" stroke="#0EA5E9" stroke-width="4"/>
+  
+  <!-- Phone/Notification device -->
+  <rect x="380" y="340" width="70" height="100" rx="12" fill="white" opacity="0.95"/>
+  <circle cx="415" cy="365" r="12" fill="#D946EF" opacity="0.8"/>
+  <path d="M415 359 L415 365 L415 371" stroke="white" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <rect x="395" y="385" width="40" height="6" rx="3" fill="#0EA5E9"/>
+  <rect x="395" y="398" width="40" height="6" rx="3" fill="#8B7FF8" opacity="0.6"/>
+  
+  <!-- Pen -->
+  <rect x="160" y="435" width="120" height="20" rx="10" fill="#8B7FF8" transform="rotate(-10 220 445)"/>
+  <polygon points="150,445 165,440 165,450" fill="#D946EF" transform="rotate(-10 157.5 445)"/>
+</svg>
