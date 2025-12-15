@@ -18,11 +18,6 @@ export function AppLayout({ children }: AppLayoutProps) {
             <div className="flex items-center gap-4">
               <SidebarTrigger className="text-muted-foreground hover:text-foreground" />
             </div>
-            <div className="flex items-center gap-2">
-              <div className="h-8 w-8 rounded-full gradient-primary flex items-center justify-center text-primary-foreground text-sm font-medium">
-                {user?.name?.charAt(0).toUpperCase() || 'U'}
-              </div>
-            </div>
           </header>
           <main className="flex-1 p-6 overflow-auto">
             {children}
